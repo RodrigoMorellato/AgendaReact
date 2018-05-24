@@ -1,0 +1,67 @@
+.App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    /* height: 150px;
+    width: 100px; */
+}
+
+.conteudo-logo {
+	width:108px;
+	height:150px;
+	border:4px solid #999;
+	background:transparent url(/imagem.jpg);
+	}
+
+.moldura-logo-dois {
+	width: 108px; 
+	border:5px inset #5f6632;
+	padding:5px;
+    background: #b1b1c3;
+    padding-bottom: 10px;    
+	}
+
+.moldura-logo-um {
+	width: 134px; /*404+8+8(bordas)+15+15(paddings)*/
+	border:10px inset #5d738b;
+    padding:3px;
+	background: transparent url(/bg-um.gif);
+	}
+
+body {
+    padding-top: 20px;
+}
+
+.menu {
+    height: 50px;
+    background-color: antiquewhite;
+    padding-top: 5px;
+}
+
+.bloco {
+    height: 40px;
+}
+
+.linkMenu {
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.contatoForm {
+    padding-bottom: 70px;
+}
+
+.contatoForm-conteudo {
+    height: 50px;
+}
+
+.contatoForm-botao-logo {
+    padding-top: 5px;
+}
+
+.page-header {
+    padding-left: 10px;
+    font-size: 24px;
+}
+
+.table {
+    padding: 0px;
+}
