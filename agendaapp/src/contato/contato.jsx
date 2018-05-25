@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import axios from 'axios'
 import Grid from '../template/grid'
-
 import PageHeader from '../template/pageHeader'
 import ContatoForm from './contatoForm'
 

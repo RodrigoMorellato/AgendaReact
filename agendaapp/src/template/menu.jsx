@@ -11,7 +11,14 @@ export default props => {
                 </input>
             </Grid>
             <Grid cols='2'>
-                <button className='bloco btn btn-primary' onClick={props.handleSearch}>Buscar Contato</button>
+                {/* <button className='bloco btn btn-primary'
+                 onClick='#/Home'>
+                 Buscar Contato
+                 </button> */}
+                 <div >
+                    <a className="bloco btn btn-primary"
+                    href='#/home'>Buscar Contato</a>
+                </div>
             </Grid>
             <Grid cols='6'>
             </Grid>
